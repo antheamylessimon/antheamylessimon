@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left"><br>‎• Interested in creative design, digital art and web development<br>• Working on web-based and academic projects<br>• Basic experience in UI/UX<br>• Learning front-end and basic back-end development<br>• Always learning and improving skills<br>‎</p>
+<p align="left"><br>‎<br>‎• Interested in creative design, digital art and web development<br>• Working on web-based and academic projects<br>• Basic experience in UI/UX<br>• Learning front-end and basic back-end development<br>• Always learning and improving skills<br>‎</p>
 
 ###
 
