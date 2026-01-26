@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Welcome</h1>
+<h1 align="center">Welcome!</h1>
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-<img align="left" height="150" src="me.png"  />
+<img align="left" height="180" src="me.png"  />
 
 ###
 
-<p align="left">‎• Interested in design and web development<br>• Working on web-based and academic projects<br>• Basic experience in UI/UX<br>• Learning front-end and basic back-end development<br>• Enjoys creative editing and digital art<br>• Always learning and improving skills<br>‎</p>
+<p align="left"><br>‎• Interested in design and web development<br>• Working on web-based and academic projects<br>• Basic experience in UI/UX<br>• Learning front-end and basic back-end development<br>• Enjoys creative editing and digital art<br>• Always learning and improving skills<br>‎</p>
 
 ###
 
