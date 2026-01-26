@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="253" src="https://i.pinimg.com/1200x/e2/32/33/e232330dab14cc9bd98b1a18a80820cc.jpg"  />
+  <img height="350" src="top.png"  />
 </div>
 
 ###
@@ -16,11 +16,11 @@
 
 ###
 
-<img align="left" height="162" src="https://image2url.com/r2/default/images/1769381310608-e0894ed1-9273-4a0a-a048-02d2aff13728.blob"  />
+<img align="left" height="155" src="me.png"  />
 
 ###
 
-<p align="left">• Interested in design and web development<br>• Working on web-based and academic projects<br>• Basic experience in UI/UX<br>• Learning front-end and basic back-end development<br>• Enjoys creative editing and digital art<br>• Always learning and improving skills<br>‎</p>
+<p align="left">• Interested in design and web development<br>• Working on web-based and academic projects<br>• Basic experience in UI/UX<br>• Learning front-end and basic back-end development<br>• Enjoys creative editing and digital art<br>• Always learning and improving skills‎</p>
 
 ###
 
