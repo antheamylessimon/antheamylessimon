@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="190" src="me.png"  />
+<img align="left" height="180" src="me.png"  />
 
 ###
 
