@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey there! I’m Anthea Myles A. Simon — an IT student who’s equally comfortable writing code and crafting cool designs. I like building systems that don’t just work, but also wow — functional, friendly, and a little bit fabulous. Forever curious, I’m on a mission to learn new tools, sharpen my skills, and sprinkle a bit of creativity on real-world tech challenges.</p>
+<p align="left">Hello! I’m Anthea Myles A. Simon — a curious IT student who likes to mix a little tech magic with creative flair. I’m always on the lookout for fresh tools to master, little skills to sharpen, and creative ways to tackle real-world puzzles with a tech twist. I enjoy building systems that are not only functional but also visually engaging and user-friendly. Because if a button isn’t pretty, does it even want to be clicked?</p>
 
 ###
 
